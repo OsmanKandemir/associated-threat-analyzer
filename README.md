@@ -88,7 +88,7 @@ Licensed under the GPL-3.0 License.
 
 ## Donations
 
-If you like Indicator-Intelligence and would like to show support, you can use **Buy A Coffee** or **Github Sponsors** feature for the developer using the button below.
+If you like Associated Threat Analyzer and would like to show support, you can use **Buy A Coffee** or **Github Sponsors** feature for the developer using the button below.
 
 Or
 
